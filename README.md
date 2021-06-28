@@ -1,5 +1,9 @@
 ### 🌱 Make it work, make it right, make it fast.🔥
 
+Fullstack Blockchain developer with strong knowledge and experience in
+✅  Solidity, Hardhat, Truffle,
+✅  React, NextJs, JS/TS, Web3, Ethersjs
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=monokai&count_private=true)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=scarletks1214&show_icons=true&theme=monokai&count_private=true)
