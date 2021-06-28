@@ -1,6 +1,6 @@
 ### 🌱 Make it work, make it right, make it fast.🔥
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodvdjin&layout=compact&theme=monokai&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=monokai&count_private=true)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=scarletks1214&show_icons=true&theme=monokai&count_private=true)
 
