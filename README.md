@@ -16,7 +16,7 @@ Fullstack Blockchain developer with strong knowledge and experience in
 
 <br />
 
-<div>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
 </div>
 
@@ -33,8 +33,8 @@ Fullstack Blockchain developer with strong knowledge and experience in
 <a href="https://www.linkedin.com/in/david-jin-a313471ba/">
   <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
+
 <br />
   
 - 📫 How to reach me: [@david](https://www.linkedin.com/in/david-jin-a313471ba/);
