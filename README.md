@@ -22,26 +22,14 @@ Fullstack Blockchain developer with strong knowledge and experience in
 
 <br />
 
-
-<a href="https://
-.gg/David-defi-web#4738">
-  <img align="left" alt="David's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/prodavidjin">
-  <img align="left" alt="Kevin.j | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/david-jin-a313471ba/">
-  <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
-
-<br />
-  
-- 📫 How to reach me: [@david](https://www.linkedin.com/in/david-jin-a313471ba/);
+ 
+- 📫 Linkedin: [@david](https://www.linkedin.com/in/david-jin-a313471ba/);
 - 💬 Telegram : [webdefiprodvd](https://t.me/webdefiprodvd);
 - 📝 Email : pro.davidjin.dev@gmail.com
 
+
 <br />
+
 
 **Languages and Tools:**  
 
@@ -87,3 +75,18 @@ Fullstack Blockchain developer with strong knowledge and experience in
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+
+
+<a href="https://
+.gg/David-defi-web#4738">
+  <img align="left" alt="David's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/prodavidjin">
+  <img align="left" alt="Kevin.j | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/david-jin-a313471ba/">
+  <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
+
+<br />
