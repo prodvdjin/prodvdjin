@@ -1,6 +1,6 @@
 ### 🌱 Make it work, make it right, make it fast.🔥
 
-Fullstack Blockchain developer with strong knowledge and experience in <br />
+### Fullstack Blockchain developer with strong knowledge and hands-on experience in <br />
 
 ✅    Solidity, Hardhat, Truffle, Rust <br />
 ✅    React, NextJs, JS/TS, Web3, Ethersjs <br />
