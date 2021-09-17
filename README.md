@@ -1,11 +1,11 @@
 ### 🌱 Make it work, make it right, make it fast.🔥
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> shoot for the moon!!!
 
-Fullstack Blockchain developer with strong knowledge and experience in
-✅  Solidity, Hardhat, Truffle, Rust
-✅  React, NextJs, JS/TS, Web3, Ethersjs
-✅  DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc)
-✅  NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs
+Fullstack Blockchain developer with strong knowledge and experience in <br />
+✅  Solidity, Hardhat, Truffle, Rust <br />
+✅  React, NextJs, JS/TS, Web3, Ethersjs <br />
+✅  DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc) <br />
+✅  NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs <br />
 
 <br />
 
