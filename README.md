@@ -7,16 +7,25 @@ Fullstack Blockchain developer with strong knowledge and experience in
 ✅  DeFi, Dex Vault from Uniswap, PancakeSwap on multichain(Ethereum, BSC, Polygon, Avalanche, etc)
 ✅  NFT marketplaces, Opensea APIs, SDK, Thegraph, Moralis API, Ox API, Etherscan APIs
 
+<br />
+
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=monokai&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=scarletks1214&show_icons=true&theme=monokai&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=scarletks1214&show_icons=true&theme=gotham&count_private=true">
 </div>
+
+<br />
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+</div>
+
+<br />
 
 
 <a href="https://
-.gg/XTW52Kt">
+.gg/David-defi-web#4738">
   <img align="left" alt="David's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  David-defi-web#4738
 </a>
 <a href="https://twitter.com/prodavidjin">
   <img align="left" alt="Kevin.j | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -27,18 +36,12 @@ Fullstack Blockchain developer with strong knowledge and experience in
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
 <br />
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
-</div>
-
-
-
   
 - 📫 How to reach me: [@david](https://www.linkedin.com/in/david-jin-a313471ba/);
 - 💬 Telegram : [webdefiprodvd](https://t.me/webdefiprodvd);
 - 📝 Email : pro.davidjin.dev@gmail.com
 
+<br />
 
 **Languages and Tools:**  
 
