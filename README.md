@@ -24,7 +24,7 @@
 
  
 - 📫 Linkedin: [@david](https://www.linkedin.com/in/david-jin-a313471ba/);
-- 💬 Telegram : [webdefiprodvd](https://t.me/webdefiprodvd);
+- 💬 Telegram : [cryptosoljup](https://t.me/cryptosoljup);
 - 📝 Email : pro.davidjin.dev@gmail.com
 
 
