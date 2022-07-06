@@ -23,7 +23,6 @@
 <br />
 
  
-- 📫 Linkedin: [@david](https://www.linkedin.com/in/david-jin-a313471ba/);
 - 💬 Telegram : [cryptosoljup](https://t.me/cryptosoljup);
 - 📝 Email : pro.davidjin.dev@gmail.com
 
@@ -69,9 +68,6 @@
 </a>
 <a href="https://twitter.com/prodavidjin">
   <img align="left" alt="Kevin.j | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/david-jin-a313471ba/">
-  <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
 
