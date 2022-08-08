@@ -9,27 +9,6 @@
 
 <br />
 
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhurryharry&layout=compact&theme=gotham&count_private=true">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=scarletks1214&show_icons=true&theme=gotham&count_private=true">
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
-</div>
-
-<br />
-
- 
-- 💬 Telegram : [cryptosoljup](https://t.me/cryptosoljup);
-- 📝 Email : pro.davidjin.dev@gmail.com
-
-
-<br />
-
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
