@@ -43,7 +43,7 @@
 
 <a href="https://
 .gg/David-defi-web#4738">
-  <img align="left" alt="David's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="David's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://twitter.com/prodavidjin">
   <img align="left" alt="Kevin.j | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
