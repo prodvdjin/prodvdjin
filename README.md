@@ -41,13 +41,6 @@
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
 
-<a href="https://
-.gg/David-defi-web#4738">
-  <img align="left" alt="David's Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
-</a>
-<a href="https://twitter.com/prodavidjin">
-  <img align="left" alt="Kevin.j | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=gobilINC.gobilINC)
 
 <br />
